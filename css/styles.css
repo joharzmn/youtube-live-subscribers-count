@@ -1,0 +1,96 @@
+header {
+    background-color: #000;
+}
+
+nav {
+    margin: 20px 0px;
+}
+
+.navbar-brand {
+    width: 300px;
+    background-size: contain!important;
+    height: 76px;
+    background-image: url(../images/vlogging-pro-logo.png);
+}
+
+.navbar-inverse {
+    background: none;
+    border: none;
+}
+
+
+.custom-nav a:hover{
+    color: #f95331;
+}
+
+
+#channel-banner img {
+    margin: 0px auto;
+}
+
+#channel-logo img {
+    border-radius: 50%;
+    margin: 0px auto;
+    margin-top: -30px;
+}
+
+#odometer {
+    margin: 20px;
+}
+
+#channel-name {
+    font-size: 30px;
+}
+
+#odometer {
+    font-size: 60px;
+}
+
+#subs-btn span {
+    padding: 15px;
+    cursor: pointer;
+}
+
+
+#subs-btn span a {
+    color: white;
+}
+
+
+.channel-search {
+    margin-top: 20px;
+}
+
+.channel-search input {
+    width: 80%;
+    border: none;
+    padding: 15px;
+    border-bottom: 1px solid #E11E20;
+}
+
+.channel-details {
+    padding: 30px;
+    font-size: 24px;
+}
+
+.channel-search input:focus {
+    outline: none;
+}
+
+.channel-search {
+    position: relative;
+}
+
+.find-icon {
+    position: absolute;
+    top: 13px;
+    cursor: pointer;
+}
+
+.view-heading {
+    color: #E11E20;
+}
+
+.videos-heading {
+    color: #E11E20;
+}
